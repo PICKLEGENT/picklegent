@@ -16,7 +16,7 @@
 
 ## EXTRA SKILLS
 - Vue.js: While React is my primary technology, I also work with Vue.js regularly, enjoying its flexibility and simplicity. I use Vue to create highly efficient and easily scalable applications.
-- Redux and Vuex: Experience with various state managers like Redux and Vuex to manage application state.
+- Redux/Vuex: Experience with various state managers like Redux and Vuex to manage application state.
 - Styled Components and CSS Modules: Most often using Tailwind CSS to style components in React.
 - API integration: Experience with REST to integrate frontend with backend.
 - Git: I use Git for version control.
