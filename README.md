@@ -6,7 +6,7 @@
 
 ## ABOUT ME
 
-<p align="left">Hello! My name is Andrey. I'm 21 years old. I'm a frontend developer. In my free time, I like to learn new technologies and delve into the details of front-end development. I constantly strive to improve my skills and follow the latest trends in the world of web development.</p>
+<p align="left">Hello! My name is Andrew. I'm 21 years old. I'm a frontend developer. In my free time, I like to learn new technologies and delve into the details of front-end development. I constantly strive to improve my skills and follow the latest trends in the world of web development.</p>
 
 ## BASIC SKILLS
 - HTML/CSS: I know all modern layout methods, including Flexbox and Grid, as well as the principles of responsive design.
